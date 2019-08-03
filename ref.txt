@@ -1,0 +1,21 @@
+(1) Adams E. R., Ciardi D. R., Dupree A. K. et al 2012 AJ 144 42
+(2) Adams E. R., Dupree A. K., Kulesa C. and McCarthy D. 2013 AJ 146 9
+(3) Baranec C., Ziegler C., Law N. M. et al AJ 152 18
+(4) Cartier K. M. S., Gilliland R. L., Wright J. T. and Ciardi D. R. 2015 ApJ 804 97
+(5) Dressing C. D., Adams E. R., Dupree A. K. et al 2014 AJ 148 78
+(6) Everett M. E., Howell S. B. and Kinemuchi K. 2012 PASP 124 316
+(7) Everett M. E., Barclay T., Ciardi D. R. et al 2015 AJ 149 55
+(8) Gilliland R. L., Cartier K. M. S., Adams E. R. et al 2015 AJ 149 24
+(9) Horch E. P., Howell S. B., Everett M. E. and Ciardi D. R. 2012 AJ 144 165
+(10) Kraus A. L., Ireland M. J., Huber D. et al AJ 152 8
+(11) Law N. M., Morton T., Baranec C. et al 2014 ApJ 791 35
+(12) Lillo-Box J., Barrado D. and Bouy H. 2012 A&A 546 A10
+     Lillo-Box J., Barrado D. and Bouy H. 2014 A&A 566 A103
+(13) Wang J., Fischer D. A., Horch E. P. and Xie J.-W. 2015a ApJ 806 248
+(14) Wang J., Fischer D. A., Xie J.-W. and Ciardi D. R. 2015b ApJ 813 130
+(15) Wang J., Fischer D. A., Barclay T. et al 2015c ApJ 815 127
+(16) Ziegler C., Law N. M., Morton T. et al 2017 AJ 153 66
+(17) 2MASS; 
+(18) UKIRT; 
+(19) Furlan£ºThe Kepler Follow-Up Observation Program. I. A Catalog of Companions to Kepler Stars from High-Resolution Imaging
+£¨rs4£©Robo-AO Kepler Survey IV: the effect of nearby stars on 3857 planetary candidate systems
